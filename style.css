@@ -4,3 +4,6 @@ body{
 section{
     background-color: blueviolet;
 }
+mark{ 
+    background-color: rgb(238, 130, 130)
+} 
